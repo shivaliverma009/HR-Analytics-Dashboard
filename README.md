@@ -107,15 +107,31 @@ Excel → Data preparation & cleaning
 
 🔍 Insights
 
-Highest attrition is in R&D and Sales departments.
 
-Employees with a Bachelor’s degree show the maximum attrition.
+This file explains the key insights from the HR Analytics Dashboard built in Tableau.
+Key Insights:
 
-Age group 26–35 has the highest attrition rate.
+1. Overall Attrition Rate: Shows the percentage of employees leaving the company. Helps HR evaluate overall retention performance.
 
-Male employees leave more than females.
+2. Attrition by Department: Highlights departments with the highest attrition rates. For example, Sales may have higher turnover than R&D, indicating the need for department-specific retention strategies.
 
-Roles like Sales Representative and Lab Technician have low job satisfaction → higher attrition.
+3. Attrition by Age Group & Gender: Provides demographic insights into workforce turnover. Helps identify if specific age groups or genders need more engagement initiatives.
+
+4. Job Satisfaction Levels: Analyzes satisfaction ratings across departments and roles. Lower satisfaction scores may indicate issues in work culture, workload, or growth opportunities.
+
+5. Attrition by Education Field: Examines the relationship between education background and attrition. Useful for HR to align training programs or skill development plans.
+
+6. Attrition by Salary Slab: Compares attrition rates across salary ranges to check if compensation plays a role in employee exits.
+
+
+Purpose:
+
+>Improve employee retention strategies
+
+>Enhance workforce planning
+
+>Make data-driven decisions for better employee experience
+
 
 
 
