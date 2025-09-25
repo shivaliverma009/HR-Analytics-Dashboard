@@ -121,6 +121,9 @@ Roles like Sales Representative and Lab Technician have low job satisfaction →
 
 📷 Dashboard Preview
 
+<img width="1542" height="880" alt="Screenshot 2025-09-25 091821" src="https://github.com/user-attachments/assets/c584d12f-66d3-4c52-9943-caa1bf93b269" />
+
+
 
 
 
